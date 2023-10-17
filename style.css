@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(2, 116, 53);
+  }
+
+  .meuNome, .descricao {
+    font-family: Arial;
+  }
+
+  em {
+    color: rgb(5, 46, 15);
+  }
+
+  .javascript {
+    font-size: 20px;
+  }
+
+  .sql {
+    font-size: 18px;
+  }
+
+  .react {
+    font-size: 16px;
+  }
+
+  .bootstrap {
+    font-size: 14px;
+  }
+
+  .metoAgil {
+    font-size: 12px;
+  }
