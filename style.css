@@ -2,8 +2,13 @@ body {
     background-color: rgb(2, 116, 53);
   }
 
-  .meuNome, .descricao {
+  .meuNome {
     font-family: Arial;
+    text-align: center;
+  }
+  .descricao{
+    font-family: Arial;
+  
   }
 
   em {
@@ -29,3 +34,20 @@ body {
   .metoAgil {
     font-size: 12px;
   }
+
+  #foto{
+float: left;
+height: 280px;
+padding: 10px;
+background-color: chocolate;
+
+  }
+
+  #ajuste{
+    height: 300px;
+  }
+
+ul li:nth-child(odd) {
+  background-color: aquamarine;
+
+}
